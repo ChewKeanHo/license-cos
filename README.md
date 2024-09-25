@@ -4,6 +4,7 @@ A published commerical friendly open-source license for
 [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) product licensing
 purposes. This license was adopted from the
 [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
+and [Creative Common Licenses](https://creativecommons.org/)
 as its baseline and applied the following changes:
 
 1. Changed `Software` to `Product` so that the license can be expanded to
@@ -13,6 +14,15 @@ as its baseline and applied the following changes:
    and how is the license applied; AND
 3. Added version controlled clauses for which version shall be in effect by
    default.
+4. Added artifical intelligence training dataset usage clauses; AND
+5. Added Sensitive Data warranty and liability coverage; AND
+6. Added global vendors (e.g. datacenter) Sensitive Data limitation of
+   liability; AND
+7. Added force manjure limitation of liability; AND
+8. Added global vendors (e.g. datacenter) Sensitive Data limitation of
+   liability; AND
+9. Added judiciary minimal damage values limitation of liability; AND
+10. Expanded grant clauses into Creative Commons' rights categories.
 
 
 
@@ -35,95 +45,107 @@ This repository is version controlled using
 ## License Nature
 
 To use this license for your product licensing, you **MUST**, in layman terms,
-do the following:
+consider the following as your recipient perpectives:
 
-1. *You're free to use for personal deployment at your own volition as long as
-   you*:
+1. *You're only allowed to use for personal deployment as long as you*:
    1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
    2. **SHALL** accept that the creators are not responsible for anything of
       any kind; AND
    3. **SHALL** retain the copyright notices and effects of the product you
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
    6. **SHALL NOT** institute patent litigation against any entity and if you
       do, any patent licenses granted to You under this Covenant for the product
       shall terminated as of the date such litigation is filed; AND
-2. *You're free to use for commercial deployment at your own volition as long
-   as you*:
+2. *You're only allowed to use for commercial deployment as long as you*:
    1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
    2. **SHALL** accept that the creators are not responsible for anything of
       any kind; AND
    3. **SHALL** retain the copyright notices and effects of the product you
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
    6. **SHALL NOT** institute patent litigation against any entity and if you
       do, any patent licenses granted to You under this Covenant for the product
       shall terminated as of the date such litigation is filed; AND
-3. *You're free to edit/modify at your own volition as long as you*:
+3. *You're only allowed to edit/modify as long as you*:
    1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
    2. **SHALL** accept that the creators are not responsible for anything of
       any kind; AND
    3. **SHALL** retain the copyright notices and effects of the product you
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect).
-   6. **SHALL NOT** institute patent litigation against any entity and if you
-      do, any patent licenses granted to You under this Covenant for the product
-      shall terminated as of the date such litigation is filed; AND
-4. *You're free to remix at your own volition as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
    6. **SHALL NOT** institute patent litigation against any entity and if you
       do, any patent licenses granted to You under this Covenant for the product
       shall terminated as of the date such litigation is filed; AND
-5. *You're free to distribute the content at your own volition as long as you*:
+4. *You're only allowed to remix/remaster as long as you*:
    1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
    2. **SHALL** accept that the creators are not responsible for anything of
       any kind; AND
    3. **SHALL** retain the copyright notices and effects of the product you
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
    6. **SHALL NOT** institute patent litigation against any entity and if you
       do, any patent licenses granted to You under this Covenant for the product
       shall terminated as of the date such litigation is filed; AND
-6. *You're free to re-distribute the content at your own volition as long as
-   you*:
+5. *You're only allowed to distribute as long as you*:
    1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
    2. **SHALL** accept that the creators are not responsible for anything of
       any kind; AND
    3. **SHALL** retain the copyright notices and effects of the product you
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
    6. **SHALL NOT** institute patent litigation against any entity and if you
       do, any patent licenses granted to You under this Covenant for the product
-      shall terminated as of the date such litigation is filed.
+      shall terminated as of the date such litigation is filed; AND
+6. *You're only allowed to re-distribute as long as you*:
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
+      (compiled software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. are **NOT REQUIRED** to expose and upstream your changes back to the
+      copyright holders all the way back to us (copyleft effect); AND
+   6. **SHALL NOT** institute patent litigation against any entity and if you
+      do, any patent licenses granted to You under this Covenant for the product
+      shall terminated as of the date such litigation is filed; AND
+7. *You're only allowed to perform any miscellaneous rights not mentioned above
+   as long as you*:
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
+      (compiled software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. are **NOT REQUIRED** to expose and upstream your changes back to the
+      copyright holders all the way back to us (copyleft effect); AND
+   6. **SHALL NOT** institute patent litigation against any entity and if you
+      do, any patent licenses granted to You under this Covenant for the product
+      shall terminated as of the date such litigation is filed; AND
 
 
 
@@ -152,12 +174,13 @@ Licensed under the (Holloway) Chew, Kean Ho’s Commercial Open Source License
 (the "License"); you may not use this file except in compliance with the
 License. You may obtain a copy of the License at
 
-                  https://doi.org/10.5281/zenodo.13788522
+                 https://doi.org/10.5281/zenodo.13788522
 
-Unless required by applicable law or agreed to in writing, Product distributed
-under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied. See the License for the
-specific language governing permissions and limitations under the License.
+Unless required by applicable law or agreed to in writing, the content
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 ```
 
 
