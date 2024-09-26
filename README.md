@@ -1,19 +1,19 @@
 # (Holloway) Chew, Kean Ho's Commercial Open Source License
 
-A published commerical friendly open-source license for
-[(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) product licensing
-purposes. This license was adopted from the
+A published commerical friendly open-source license originally for
+[(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) but now open to all
+product licensing purposes. This license was adopted from the
 [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
 and [Creative Common Licenses](https://creativecommons.org/)
 as its baseline and applied the following changes:
 
 1. Changed `Software` to `Product` so that the license can be expanded to
    non-software product licensing usage (e.g. graphics, video, manufacturing
-   design, etc) without needing to spin multiple licenses; AND
+   design, audio, etc) without needing to spin multiple outbound licenses; AND
 2. Added license assignment, ratification, and tenure section to specify when
    and how is the license applied; AND
 3. Added version controlled clauses for which version shall be in effect by
-   default.
+   default; AND
 4. Added artifical intelligence training dataset usage clauses; AND
 5. Added Sensitive Data warranty and liability coverage; AND
 6. Added global vendors (e.g. datacenter) Sensitive Data limitation of
@@ -22,7 +22,13 @@ as its baseline and applied the following changes:
 8. Added global vendors (e.g. datacenter) Sensitive Data limitation of
    liability; AND
 9. Added judiciary minimal damage values limitation of liability; AND
-10. Expanded grant clauses into Creative Commons' rights categories.
+10. Expanded grant clauses into Creative Commons' rights categories; AND
+11. Added geographical indicator coverage; AND
+12. Added protected geographical indicator coverage; AND
+13. Added protected designation indicator coverage; AND
+14. Added industrial design use coverage; AND
+15. Added integrated circuit layout design use coverage; AND
+16. Added trade secret use coverage.
 
 
 
@@ -145,7 +151,7 @@ consider the following as your recipient perpectives:
       copyright holders all the way back to us (copyleft effect); AND
    6. **SHALL NOT** institute patent litigation against any entity and if you
       do, any patent licenses granted to You under this Covenant for the product
-      shall terminated as of the date such litigation is filed; AND
+      shall terminated as of the date such litigation is filed.
 
 
 
@@ -170,17 +176,18 @@ The following are the license notice within the supported languages:
 ```
 Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
+
 Licensed under the (Holloway) Chew, Kean Ho’s Commercial Open Source License
 (the "License"); you may not use this file except in compliance with the
 License. You may obtain a copy of the License at
 
-                 https://doi.org/10.5281/zenodo.13788522
+                https://doi.org/10.5281/zenodo.13788522
 
 Unless required by applicable law or agreed to in writing, the content
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ```
 
 
