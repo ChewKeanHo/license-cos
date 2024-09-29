@@ -1,8 +1,8 @@
 cff-version: "1.2.0"
 type: "software"
-date-released: "2024-09-26"
+date-released: "2024-09-29"
 title: "(Holloway) Chew, Kean Ho's Commercial Open Source License"
-version: "3.0.0"
+version: "4.0.0"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-cos"
 repository-code: "https://github.com/ChewKeanHo/license-cos"
@@ -14,7 +14,7 @@ contact:
     website: "https://www.hollowaykeanho.com"
 abstract: |-
   A published commerical friendly open-source license originally for
-  "(Holloway) Chew, Kean Ho" (https://github.com/ChewKeanHo) but now open
+  "(Holloway) Chew, Kean Ho" (https://github.com/ChewKeanHo) but is now open
   to all product licensing purposes. This license was adopted from the
   "Open Source Initiative's Apache 2.0 License"
   (https://opensource.org/license/apache-2-0) and "Creative Common Licenses"

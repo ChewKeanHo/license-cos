@@ -1,7 +1,7 @@
 # (Holloway) Chew, Kean Ho's Commercial Open Source License
 
 A published commerical friendly open-source license originally for
-[(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) but now open to all
+[(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) but is now open to all
 product licensing purposes. This license was adopted from the
 [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
 and [Creative Common Licenses](https://creativecommons.org/)
@@ -181,13 +181,13 @@ Licensed under the (Holloway) Chew, Kean Ho’s Commercial Open Source License
 (the "License"); you may not use this file except in compliance with the
 License. You may obtain a copy of the License at
 
-                https://doi.org/10.5281/zenodo.13788522
+                 https://doi.org/10.5281/zenodo.13788522
 
 Unless required by applicable law or agreed to in writing, the content
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 ```
 
 
