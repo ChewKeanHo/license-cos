@@ -39,7 +39,7 @@ current timeline:
 15. Added industrial design use coverage; AND
 16. Added trade secret use coverage; AND
 17. Added trademark use coverage; AND
-18. Applied [plainlanguage.gov](plainlanguage.gov/guidelines/)
+18. Applied [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
     specifications; AND
 19. Re-written from scratch by human with the only input provision assistance
     from [Claude AI](https://claude.ai/); AND
@@ -91,9 +91,9 @@ product repository.
 
 ## License Nature
 
-To comply with [PlainLanguage.gov](plainlanguage.gov/guidelines/), You have to
-read the license files directly. It must be easily readable for any general
-public audience without assistance.
+To comply with [PlainLanguage.gov](https://plainlanguage.gov/guidelines/),
+You have to read the license files directly. It must be easily readable for
+any general public audience without assistance.
 
 If you cannot parse or understand any part of the license, that means the
 license has not fully achieve the guideline yet. In that case, please file a
@@ -126,7 +126,11 @@ quality either by resources sharing or scanning:
 ## Researches
 
 * [Limitations Act of Malaysia](https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/ACT%20254-Online%20version%20as%20at%201%20Sept%202019.pdf)
-* [United States' PlainLanguage.GOV](plainlanguage.gov/guidelines/)
+* [United States' PlainLanguage.GOV](https://plainlanguage.gov/guidelines/)
+* [MYIPO](https://www.myipo.gov.my/en/home/)
+* [USPTO](https://www.uspto.gov/)
+* [EUIPO](https://www.euipo.europa.eu/en)
+* [CNIPA](https://english.cnipa.gov.cn/col/col2977/index.html)
 * [BSD Zero Clause License](https://opensource.org/license/0bsd)
 * [MIT License](https://opensource.org/license/MIT)
 * [BSD 3 Clauses Clear License](https://spdx.org/licenses/BSD-3-Clause-Clear.html)
